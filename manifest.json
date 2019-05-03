@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "RedLink",
+    "version": "0.0.1",
+    "omnibox": {
+        "keyword": "rl"
+    },
+    "background": {
+        "scripts": ["js/background.js"]
+    },
+    "permissions": [
+        "storage"
+    ]
+
+}
